@@ -1,3 +1,7 @@
 .ds_store
 Selma/
 idx/
+Selma.txt
+*.jsonl
+*.model
+*.vocab
