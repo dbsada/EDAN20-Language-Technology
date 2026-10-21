@@ -5,3 +5,5 @@ Selma.txt
 *.jsonl
 *.model
 *.vocab
+*.csv
+*.txt
